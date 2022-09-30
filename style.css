@@ -1,0 +1,52 @@
+*{
+
+    margin:0 auto;
+    padding: 0;
+
+}
+footer{
+    background: rgb(211,13,13);
+    background: linear-gradient(90deg, rgba(211,13,13,1) 35%, rgba(143,12,0,1) 100%);
+   padding: 50px;
+   margin-bottom: 100px;
+    border:linear-gradient(90deg, rgba(211,13,13,1) 35%, rgba(143,12,0,1) 100%) ;
+}
+.roteito{
+margin-left: 700px;
+color: rgb(255, 251, 232);
+
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+}
+img{
+    width:500px;
+    height: 500px;
+    border-radius: 50%;
+    vertical-align:middle;
+}
+main{
+    margin: 70px;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: rgb(255, 255, 255);
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 18px;
+    line-height: 25px;
+    word-spacing: 4px;
+    font-size:18px;
+}
+body{
+    background: rgba(48,45,45,1);
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Playball', cursive;
+    text-align:center;
+    font-size: 50px;
+    margin-bottom: 10px;
+    letter-spacing:4px
+}
